@@ -68,7 +68,7 @@ Got a project or idea? I'm always open to exciting collaborations and remote opp
 - 🌍 Portfolio (Coming Soon)
 - 🐦 [Twitter](https://twitter.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/)
-- 📩 Email: `ifeanyi.nnaemego[at]gmail.com`
+- 📩 Email: `josephnnaemego@gmail.com`
 
 ---
 
