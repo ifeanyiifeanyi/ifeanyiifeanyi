@@ -11,6 +11,7 @@ I'm a passionate and self-driven full stack developer with over **5 years** of p
 
 Whether it's developing a business application or engineering backend APIs for complex systems, I thrive on clean code, meaningful user experiences, and elegant architecture.  
 
+[![Download CV](https://img.shields.io/badge/📋%20Download%20CV-Click%20Here-brightgreen?style=plastic)](https://drive.google.com/file/d/1HY3VQqWul8bzuOn_ORFw_Nonw84e-a1s/view?usp=download)
 ---
 
 ## 🛠 Tech Arsenal
